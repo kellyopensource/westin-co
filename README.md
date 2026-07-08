@@ -58,5 +58,4 @@ orders. This repository exists to maintain a clear record of the data architectu
 integration design as the system evolves.
 
 **Live site:** [westinandco.net](https://westinandco.net)
-<img width="468" height="648" alt="image" src="https://github.com/user-attachments/assets/da2d1829-1f6c-4555-a8bc-c5e2ad8abf39" />
 
