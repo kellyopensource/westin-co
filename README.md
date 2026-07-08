@@ -4,6 +4,8 @@ Westin & Co is a custom embroidery e-commerce business; this repository document
 database schema, API contract, and system architecture that power the order intake and
 fulfillment workflow behind the storefront at [westinandco.net](https://westinandco.net).
 
+Westinandco.net is where I'm building. Westinandco.com is the Shopify handoff. The two are separate due to third-party app costs for features the owner would like to add.
+
 ---
 
 ## What This Repo Contains
