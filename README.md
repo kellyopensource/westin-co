@@ -58,4 +58,12 @@ orders. This repository exists to maintain a clear record of the data architectu
 integration design as the system evolves.
 
 **Live site:** [westinandco.net](https://westinandco.net)
+## Repository Structure
+
+
+schema/ Database schema files and design notes
+api/ API contract documentation and FastAPI route stubs
+integrations/ Notes on Shopify Storefront API connection
+docs/ State machine, workflow, and architecture decision records
+tests/ Placeholder for future API tests
 
